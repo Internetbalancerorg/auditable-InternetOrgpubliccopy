@@ -1,0 +1,9 @@
+Unique Identity ID.
+A ID that one shall use in this system to identify as a unit entity and not to be changed across time.
+From issue opening,voting to executing promises.
+
+
+One unit brain power definition,currently no official shortform.
+Having the ability to recall A factual info and A related event will count as usage of one unit brain power.
+Recall specs,one may have perfect memory and never need to create a note.
+It is acceptable for an entity to not do any notes.Provided that the entity can recall it when needed. 
